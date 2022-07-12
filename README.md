@@ -2,8 +2,6 @@
 
 Sample Contact Tracing app built on Salesforce Platform.
 
-![Contact_Tracing_App](https://github.com/LazyKay/contact-tracing/blob/master/screenshots/screenshots.png)
-
 ## Install Object Schema
 
 **Make sure you have "git" and Salesoforce CLI installed in your system. Follow below steps to upload object schema along with permission set in your Salesforce Org.**
